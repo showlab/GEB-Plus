@@ -165,8 +165,12 @@ If you find our work helps, please cite our paper:
 }
 ```
 
+<br/>
+
 ## Contact
 This repo is maintained by [Yuxuan Wang](https://yuxuanw.me). Questions and discussions are welcome via yuxuan.www@gmail.com.
+
+<br/>
 
 ## Acknowledgement
 This project is supported by the National Research Foun- dation, Singapore under its NRFF Award NRF-NRFF13-2021-0008, and [Mike Zheng Shou's](https://sites.google.com/view/showlab) Start-Up Grant from NUS. The computational work for this article was partially performed on resources of the National Supercomputing Centre, Singapore.
