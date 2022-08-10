@@ -150,3 +150,26 @@ The best performance of our baseline are achieved by _FROZEN-revised_ with _ResN
 | Metric | mAP | R@1 | R@5 | R@10 | R@50 |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | _Use GEBD_ | 23.39 |	12.80	| 34.81	| 45.66 |	68.1 |
+
+<br/>
+
+## Citation
+
+If you find our work helps, please cite our paper:
+```
+@article{wang2022generic,
+  title={Generic Event Boundary Captioning: A Benchmark for Status Changes Understanding},
+  author={Wang, Yuxuan and Gao, Difei and Yu, Licheng and Lei, Stan Weixian and Feiszli, Matt and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2204.00486},
+  year={2022}
+}
+```
+
+## Contact
+This repo is maintained by [Yuxuan Wang](https://yuxuanw.me). Questions and discussions are welcome via yuxuan.www@gmail.com.
+
+## Acknowledgement
+This project is supported by the National Research Foun- dation, Singapore under its NRFF Award NRF-NRFF13-2021-0008, and [Mike Zheng Shou's](https://sites.google.com/view/showlab) Start-Up Grant from NUS. The computational work for this article was partially performed on resources of the National Supercomputing Centre, Singapore.
+
+Thanks to [Difei Gao](https://scholar.google.com/citations?user=No9OsocAAAAJ&hl=en), [Licheng Yu](https://lichengunc.github.io), and the effort contributed by other excellent staffs from Meta AI.
+
