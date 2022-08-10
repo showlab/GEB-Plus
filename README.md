@@ -174,5 +174,5 @@ This repo is maintained by [Yuxuan Wang](https://yuxuanw.me). Questions and disc
 ## Acknowledgement
 This project is supported by the National Research Foun- dation, Singapore under its NRFF Award NRF-NRFF13-2021-0008, and [Mike Zheng Shou's](https://sites.google.com/view/showlab) Start-Up Grant from NUS. The computational work for this article was partially performed on resources of the National Supercomputing Centre, Singapore.
 
-Thanks to [Difei Gao](https://scholar.google.com/citations?user=No9OsocAAAAJ&hl=en), [Licheng Yu](https://lichengunc.github.io), and the great efforts contributed by other excellent staffs from Meta AI.
+Thanks to [Difei Gao](https://scholar.google.com/citations?user=No9OsocAAAAJ&hl=en), [Licheng Yu](https://lichengunc.github.io), and the great efforts contributed by other excellent staffs from [Meta AI](https://ai.facebook.com).
 
