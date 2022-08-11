@@ -3,7 +3,7 @@
 
 [Yuxuan Wang](https://yuxuanw.me), [Difei Gao](https://scholar.google.com/citations?user=No9OsocAAAAJ&hl=en), [Licheng Yu](https://lichengunc.github.io), Stan Weixian Lei, Matt Feiszli, and [Mike Zheng Shou](https://sites.google.com/view/showlab)
 
-We introduce a new dataset called **Kinetic-GEB+**. The dataset consists of over 170k boundaries associated with captions describing status changes in the generic events in 12K videos. Upon this new dataset, we propose three tasks (**Boundary Captioning**, **Boundary Grounding** and **Boundary Caption-Video Retrieval**) supporting the development of a more fine-grained, robust, and human-like understanding of videos through status changes.
+We introduce a new dataset called **Kinetics-GEB+**. The dataset consists of over 170k boundaries associated with captions describing status changes in the generic events in 12K videos. Upon this new dataset, we propose three tasks (**Boundary Captioning**, **Boundary Grounding** and **Boundary Caption-Video Retrieval**) supporting the development of a more fine-grained, robust, and human-like understanding of videos through status changes.
 
 ![image](https://github.com/Yuxuan-W/GEB-Plus/blob/master/figures/Cover.png)
 
@@ -13,8 +13,8 @@ We evaluate many representative baselines in our dataset, where we also design a
 
 <br/>
 
-## Using Kinetic-GEBC Dataset
-In our **Kinetic-GEB+** dataset, each video contains 1 to 8 annotations from different annotators and each annotation consists of several boundaries inside a video, where the boundaries' location are not the same. 
+## Using Kinetics-GEBC Dataset
+In our **Kinetics-GEB+** dataset, each video contains 1 to 8 annotations from different annotators and each annotation consists of several boundaries inside a video, where the boundaries' location are not the same. 
 In the evaluation of downstream tasks, we select one annotator whose labeled boundaries are most consistent with others to reduce noise and duplication. Then, we use these boundaries’ timestamps as the anchors to merge other annotators’ captions, preserving the diversity of different opinions. Thus, one video corresponds to multiple boundaries, and each boundary could be with multiple captions. Finally, this selection includes 40k anchors from all videos.
 
 **Here we release 2 versions of dataset:**
