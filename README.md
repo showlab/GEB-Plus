@@ -169,7 +169,7 @@ If you find our work helps, please cite our paper:
 <br/>
 
 ## Contact
-This repo is maintained by [Yuxuan Wang](https://yuxuanw.me). Questions and discussions are welcome via yuxuan.www@gmail.com.
+This repo is maintained by [Yuxuan Wang](https://yuxuanw.me). Questions and discussions are welcome via ethan.yuxuan.wang@gmail.com.
 
 <br/>
 
